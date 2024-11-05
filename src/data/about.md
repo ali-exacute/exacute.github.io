@@ -1,9 +1,11 @@
 Hello!
 
-My name is <span title="/puːˈjɑː/">**Pouya**</span>, I'm a web developer, living in İstanbul.
+My name is **Ali**, I'm a backend Developer, currently learning frontend development and web design.
 
-I'm working on the popular, open-source UI library [daisyUI](https://daisyui.com/).
+I'm currently working on creating custom scripts for the popular, open-source project [FiveM](https://fivem.net), a modification for the popular game **GTA V**.
 
-Join me on [X](https://x.com/saadeghi) and see my projects on [GitHub](https://github.com/saadeghi)
+See my projects on [GitHub](https://github.com/ali-exacute)
 
-Or send me a mail [pouya.saadeghi@gmail.com](mailto:pouya.saadeghi@gmail.com), I would be happy to connect.
+You can contact me via my discord server at [discord.Ali-Exacute.com](https://discord.Ali-Exacute.com)
+
+Or send me a mail [aliexacute.dev@gmail.com](mailto:aliexacute.dev@gmail.com), I would be happy to connect.
