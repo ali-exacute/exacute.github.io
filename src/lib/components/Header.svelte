@@ -22,16 +22,26 @@
 
   <nav class="flex gap-2 print:hidden">
     <a
-      class={`px-2 rounded ${$page.url.pathname == "/" ? "bg-black text-white" : "bg-black/5 hover:bg-black/10"}`}
-      href="/">About</a
+    class={`px-2 rounded ${$page.url.pathname == "/" ? "bg-black text-white" : "bg-black/5 hover:bg-black/10"}`}
+    href="/">About</a
     >
     <a
-      class={`px-2 rounded ${$page.url.pathname == "/resume/" ? "bg-black text-white" : "bg-black/5 hover:bg-black/10"}`}
-      href="/resume/">Resume</a
+    class={`px-2 rounded ${$page.url.pathname == "/resume/" ? "bg-black text-white" : "bg-black/5 hover:bg-black/10"}`}
+    href="/resume/">Resume</a
     >
+    
     <a
-      class={`px-2 rounded ${$page.url.pathname == "/projects/" ? "bg-black text-white" : "bg-black/5 hover:bg-black/10"}`}
-      href="/projects/">Projects</a
+      class={"px-2 rounded bg-indigo-500 hover:bg-indigo-700 text-white"}
+      href="https://store.Ali-Exacute.com/" target="_blank">FiveM Store</a
     >
+    
+    <a
+      class={"px-2 rounded bg-fuchsia-700 hover:bg-fuchsia-800 text-white"}
+      href="https://docs.Ali-Exacute.com/" target="_blank">Documentation</a
+    >
+    <!-- <a -->
+      <!-- class={`px-2 rounded ${$page.url.pathname == "/projects/" ? "bg-black text-white" : "bg-black/5 hover:bg-black/10"}`} -->
+      <!-- href="/projects/">Projects</a -->
+    <!-- > -->
   </nav>
 </div>
